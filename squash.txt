@@ -1,0 +1,11 @@
+squash e8005f4 Change plural on index page to 'capybara'.
+pick 44d59fa Add capybaras page.
+pick 7d2edea Add capybaras to index.
+pick 6e8e5d6 Change plural on detail page to 'capybara'.
+C H A P T E R 1 — R E B A S E
+SQUASH COMMITS
+$ git rebase -i HEAD~4
+squash
+"squash" merges a commit with the previous commit
+No, wait... they were better off as one commit.
+editor
