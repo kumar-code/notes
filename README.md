@@ -10,3 +10,6 @@ It looks, that someone pushed new commits between your last git fetch and git pu
 3. git push origin remote_name/feature_branch
 
 After the git fetch I recommend to examine situation with gitk --all.
+
+
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.NodeJs.01.html
